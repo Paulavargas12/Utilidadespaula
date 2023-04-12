@@ -1,0 +1,107 @@
+a {
+    display: inline-block;
+    margin-bottom: 5px;
+    font-size: 24px;
+    color: #fff;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 50px;
+    transition: background 2s ease;
+    transition: font-size 1s ease-in-out;
+}
+
+a:hover{
+    background: transparent;
+    font-size: 48px;
+}
+
+.textotitulo{
+    text-align: center;
+}
+
+.icon-facebook:hover{
+    color: #3b5998;
+    transform: scale(2);
+    transform: rotate(360deg);
+    transition: all 1000ms ease-in-out;
+}
+
+.icon-facebook{
+    background-color: #3b5998;
+}
+
+.icon-instagram:hover{
+    color:#C13584;
+    transform: scale(2);
+    transform: rotate(360deg);
+    transition: all 1000ms ease-in-out;
+}
+
+.icon-instagram{
+    background-color: #C13584;
+}
+
+
+.icon-twitter:hover{
+    color: #1DA1F2;
+    transform: scale(2);
+    transform: rotate(360deg);
+    transition: all 1000ms ease-in-out;
+}
+
+.icon-twitter{
+    background-color:#1DA1F2;
+}
+
+
+.icon-whatsapp:hover{
+    color: #25D366;
+    transform: scale(2);
+    transform: rotate(360deg);
+    transition: all 1000ms ease-in-out;
+}
+
+.icon-whatsapp{
+    background-color: #25D366;
+}
+
+
+
+.icon-telegram:hover{
+    color:#00B2FF;
+    transform: scale(2);
+    transform: rotate(360deg);
+    transition: all 1000ms ease-in-out;
+}
+
+.icon-telegram{
+    background-color: #00B2FF;
+}
+
+.icon-spotify:hover{
+    color: #1DB954;
+    transform: scale(2);
+    transform: rotate(360deg);
+    transition: all 1000ms ease-in-out;
+}
+
+.icon-spotify{
+    background-color: #1DB954;
+}
+
+.alignH{
+    background-color: #00abf0;
+    margin-top: 20px;
+}
+
+.columna {
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #4d5061;
+}
+
+.alignV{
+    background-color: #c74646;
+    margin-top: 20px;
+    height: 15rem;
+}
